@@ -1,0 +1,28 @@
+import img1 from "../imgs/pen1.jpeg"
+import img2 from "../imgs/pen2.jpeg"
+import img3 from "../imgs/pen3.jpeg"
+import img4 from "../imgs/pen4.jpeg"
+import img5 from "../imgs/pen5.jpeg"
+import img6 from "../imgs/pen6.jpeg"
+import img7 from "../imgs/pen7.jpeg"
+import img8 from "../imgs/pen8.jpeg"
+import img9 from "../imgs/pen9.jpeg"
+import img10 from "../imgs/pen10.jpeg"
+import img11 from "../imgs/pen11.jpeg"
+import img12 from "../imgs/pen12.jpeg"
+import img13 from "../imgs/pen13.jpeg"
+import img14 from "../imgs/pen14.jpeg"
+import img15 from "../imgs/pen15.jpeg"
+import img16 from "../imgs/pen16.jpeg"
+import img17 from "../imgs/pen17.jpeg"
+import img18 from "../imgs/pen18.jpeg"
+import img19 from "../imgs/pen19.jpeg"
+import img20 from "../imgs/pen20.jpeg"
+import img21 from "../imgs/pen21.jpeg"
+import img22 from "../imgs/pen22.jpeg"
+import img23 from "../imgs/pen23.jpeg"
+import img24 from "../imgs/pen24.jpeg"
+
+const imageOptions = [img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12, img13, img14, img15, img16, img17, img18, img19, img20, img21, img22, img23, img24];
+
+export default imageOptions;
